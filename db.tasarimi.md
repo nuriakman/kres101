@@ -40,6 +40,7 @@ kişiler.kisi_id
 - çocuk id
 - kişi id
 - isASIL (1/0)
+- isIZINLI (1/0)
 
 ### kayıt günlüğü
 - id
